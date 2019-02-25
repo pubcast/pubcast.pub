@@ -22,7 +22,7 @@ const Home = () => (
         <b>technology</b>, like email. That means anyone can write a Pubcast app
         or talk to another pubcast app. Second, Pubcast is a <b>web server</b>,
         that anyone can spin up. These servers can talk to each other over
-        Pubcast's API.
+        Pubcast's API. Okay cool
       </p>
 
       <p>
