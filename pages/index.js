@@ -78,7 +78,8 @@ const Home = () => (
       <footer>
         Made with ❤️ <br /> by{" "}
         <a href="https://twitter.com/danielkuntz0">Daniel Kuntz</a> &{" "}
-        <a href="https://twitter.com/flaqueEau">Evan Conrad.</a>
+        <a href="https://twitter.com/flaqueEau">Evan Conrad</a> &{" "}
+        <a href="https://cyrusroshan.com/">Cyrus Roshan</a>
       </footer>
     </main>
 
